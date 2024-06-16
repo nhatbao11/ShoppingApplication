@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262013744995",
+    "project_id": "doancoso3it",
+    "storage_bucket": "doancoso3it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262013744995:android:edcb52adc36eee98798556",
+        "android_client_info": {
+          "package_name": "com.project.doancoso3it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8Gy0prsLD8HvET8aJelSWlUstPCpqC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262013744995:android:02c179f39a1cd211798556",
+        "android_client_info": {
+          "package_name": "com.project.ecommerceapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8Gy0prsLD8HvET8aJelSWlUstPCpqC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
